@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#64000000"   />   // 2 first numbers after hash tag gives HEX value for the opacity
-                                            // 64 corresponds to 40% of opacity
+    <solid android:color="#64000000"   />   <!-- 2 first numbers after hash tag gives HEX value for the opacity
+                                            // 64 corresponds to 40% of opacity-->
     <stroke android:color="@android:color/white"
             android:width="2dp"
     />
