@@ -61,7 +61,8 @@
             android:background="@drawable/swoosh_toggle"
             android:text="@string/mens"
             android:textColor="@android:color/white"
-            android:textOff="@string/mens" />
+            android:textOff="@string/mens"
+            android:textOn="@string/mens" />
 
         <ToggleButton
             android:id="@+id/toggleButton2"
