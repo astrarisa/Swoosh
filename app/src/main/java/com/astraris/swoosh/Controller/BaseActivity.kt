@@ -1,4 +1,4 @@
-package com.astraris.swoosh
+package com.astraris.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
