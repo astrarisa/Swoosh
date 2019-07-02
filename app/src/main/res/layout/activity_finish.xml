@@ -15,7 +15,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/exercisebg" />
+        app:srcCompat="@drawable/exercisebg"
+        android:contentDescription="@string/finish_background" />
 
     <TextView
         android:id="@+id/searchLeaguesText"
@@ -25,7 +26,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="8dp"
-        android:text="TextView"
+        android:text="@string/textview"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="24sp"
